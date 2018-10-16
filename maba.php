@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form action="lihatdata.php" method="POST">
+<form action="" method="POST">
 	<table>
 		<tr>
 			<td><b>Mahasiswa Baru</b></td>
